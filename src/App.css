@@ -1,0 +1,32 @@
+
+.weatherbg{
+background-image: url(./Blue\ BG.jpg);
+height: 50vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+color: whitesmoke;
+}
+.weatherbg h1{
+    color: white;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.WeatherresultBox{
+    margin: auto;
+    height: 300px;
+    width: 500px;
+}
+.weather-icon{
+    
+    width: 250px;
+    height: 150px;
+}
+.weathercity{
+    font-size: 35px;
+}
+.weathertemp{
+    font-size: 55px;
+    font-weight: 700;
+}
